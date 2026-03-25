@@ -93,6 +93,11 @@ curl https://openai.good.hidns.vip/v1/images/generations \
   }'
 ```
 
+## 交流社区
+
+- Telegram 群组：[https://t.me/+qQEwPrh9bJZlZjJl](https://t.me/+qQEwPrh9bJZlZjJl)
+- QQ 群：1094693043
+
 ## 注意事项
 
 - 本服务免费提供给个人使用，请合理使用。
