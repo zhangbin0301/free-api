@@ -53,7 +53,7 @@
 ```bash
 curl https://openai.good.hidns.vip/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa" \
+  -H "Authorization: Bearer https://github.com/smanx/free-api" \
   -d '{
     "model": "gpt-5.2",
     "messages": [
@@ -83,7 +83,7 @@ curl https://openai.good.hidns.vip/v1/chat/completions \
 ```bash
 curl https://openai.good.hidns.vip/v1/images/generations \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa" \
+  -H "Authorization: Bearer https://github.com/smanx/free-api" \
   -d '{
     "model": "grok-imagine-1.0",
     "prompt": "生成一张极简风格的火箭扁平图标，白色背景",
