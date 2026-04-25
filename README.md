@@ -27,7 +27,7 @@
 | 模型名 | 模型ID示例 | 说明 |
 |------|---------|------|
 | ~~GPT~~ | ~~gpt-5.4~~ | ~~对话、识图、工具，推荐使用~~ |
-| Grok | grok-4.1-fast | ~~生图首选~~，对话内容限制较少 |
+| Grok | grok-4.20-fast | ~~生图首选~~，对话内容限制较少 |
 | ~~Claude~~ | ~~anthropic/claude-sonnet-4.6~~ | ~~Claude Code~~ |
 | Qwen | qwen3.6-plus | 生图，视频识别 |
 | GLM | z-ai/glm5 | 智谱 GLM |
@@ -35,9 +35,8 @@
 | MiniMax | minimaxai/minimax-m2.5 | MiniMax |
 | DeepSeek | deepseek-ai/deepseek-v3.2 | DeepSeek |
 
-> 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已重新上线，可直接使用。
 
-> 注意：该服务的 `Grok` `Claude` 和 `Qwen` 不支持工具调用，强行调用时返回结果可能异常。
+> 注意：该服务的 `Grok` 和 `Qwen` 不支持工具调用，强行调用时返回结果可能异常。
 
 ## 支持的端点
 

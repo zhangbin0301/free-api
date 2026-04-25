@@ -26,7 +26,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 | Model | Model ID | Description |
 |------|---------|------|
 | ~~GPT~~ | ~~gpt-5.4~~ | ~~Recommended for chat, vision, and tool use~~ |
-| Grok | grok-4.1-fast | ~~Best suited for image generation~~, with fewer conversation restrictions |
+| Grok | grok-4.20-fast | ~~Best suited for image generation~~, with fewer conversation restrictions |
 | ~~Claude~~ | ~~anthropic/claude-sonnet-4.6~~ | ~~Claude Code~~ |
 | Qwen | qwen3.6-plus | Image generation, video recognition |
 | GLM | z-ai/glm5 | Zhipu GLM |
@@ -34,9 +34,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 | MiniMax | minimaxai/minimax-m2.5 | MiniMax |
 | DeepSeek | deepseek-ai/deepseek-v3.2 | DeepSeek |
 
-> Update: `gpt-5.4` and `gpt-5.3-codex` are available again and can be used directly.
-
-> Note: `Grok` `Claude` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
+> Note: `Grok` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
 
 ## Supported Endpoints
 
